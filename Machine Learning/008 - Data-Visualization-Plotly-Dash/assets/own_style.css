@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url('https://fonts.googleapis.com');
+@import url('https://fonts.gstatic.com');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+body{
+	margin-left: 70px;
+	margin-right: 50px;
+	padding-bottom: 50px;
+}
+h1{ 
+	color: grey;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold !important;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+img{
+	width: 120px;
+    height:  120px;
+    float:  left;
+    border-radius: 50%;
+    border: 1px solid grey;
+}
+.ban-text{
+    font-size: 30px;
+    text-align:  left;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    /*margin-top: 40px;*/
+    margin-left: 40px;
+}
+.ban-text.num{
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+}
+.ban-text.name{
+    font-weight: bold;
+    text-align: left;
+}
+.ban-text span{
+	font-size: 20px;
+}
+.dash-dropdown{
+ margin: 0px auto;
+ width: 100%;
+}
+pre{
+	display: block;
+	margin-top: -10px;
+}
+span{
+	font-size: 25px!important;
+    margin-left: 5px!important;
+}
+.row{
+   margin-top: 10px;
+}
